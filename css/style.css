@@ -1050,6 +1050,23 @@ footer.site-footer {
   color: rgba(255, 255, 255, 0.5);
 }
 
+.footer-credit {
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.footer-credit a {
+  color: rgba(255, 255, 255, 0.65);
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.footer-credit a:hover {
+  color: var(--paper);
+}
+
 /* Responsive
    ========================================================================== */
 
