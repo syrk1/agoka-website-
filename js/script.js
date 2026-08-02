@@ -52,6 +52,27 @@ document.querySelectorAll(".photo-frame.slideshow").forEach(function (frame) {
   startTimer();
 });
 
+// Swipeable image groups: always start on the first photo, and let the
+// arrow button advance the row (looping back to the start at the end)
+document.querySelectorAll(".image-group-wrap").forEach(function (wrap) {
+  var track = wrap.querySelector(".image-group");
+  var arrow = wrap.querySelector(".swipe-hint");
+  if (!track) return;
+
+  track.scrollLeft = 0;
+
+  if (arrow) {
+    arrow.addEventListener("click", function () {
+      var step = track.clientWidth * 0.82 + 12;
+      var atEnd = track.scrollLeft + track.clientWidth >= track.scrollWidth - 4;
+      track.scrollTo({
+        left: atEnd ? 0 : track.scrollLeft + step,
+        behavior: "smooth"
+      });
+    });
+  }
+});
+
 // Tap-to-reveal stacked photo cards: clicking the top card sends it to the back
 document.querySelectorAll(".stack-cards").forEach(function (stack) {
   var cards = stack.querySelectorAll(".stack-card");
