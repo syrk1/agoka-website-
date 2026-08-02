@@ -1,6 +1,6 @@
 var translations = {
   en: {
-    brand_name: "Ajouka &amp; Anboba",
+    brand_name: "Anboba &amp; Ajouka",
     nav_home: "Home",
     nav_about: "About",
     nav_vision: "Our Vision",
@@ -163,12 +163,14 @@ var translations = {
     cat2_eyebrow: "Construction &amp; Industrial Projects",
     cat2_h2: "Residential &amp; Industrial Works",
     c1_title: "Al-Waer Residential Tower Complex, Homs",
-    c1_p: "Construction of a residential tower complex in Al-Waer District, Homs, with a contract value of SYP 285,000,000, completed in 2009.",
+    c1_p: "The project included 80 residential apartments in 4 buildings, each consisting of 5 floors, in Homs Al-Waer in 2003.",
     c2_title: "Al-Gardenia Tourist Complex",
     c2_p: "The first phase of the Gardenia Tower project was completed in 2008. This phase included excavation work and lateral soil reinforcement using anchors and tie beams, in addition to reinforced shotcrete to a depth of 18 meters and an area of 8000 square meters, and the installation of lateral piles with a diameter of 80 cm. These works were carried out according to the highest standards.",
 
     client_hsc: "Client: Housing Savings Company",
     client_conser: "Client: CONSER Syria",
+    client_ich: "Client: Industrial City of Homs",
+    client_hwse: "Client: Homs Public Water and Sanitation Establishment",
     c3_title: "Homs Industrial City",
     c3_p: "Execution of specialized excavation works for several industrial factories and prefabricated steel structures.",
 
@@ -177,9 +179,10 @@ var translations = {
     i1_title: "Homs City Drainage Networks",
     i1_p: "Execution of sewage and stormwater drainage networks throughout Homs City, with pipe diameters ranging from 200 cm to 50 cm.",
     i2_title: "Baba Amr Infrastructure Project (2009)",
-    i2_p: "Execution of a complete infrastructure project in Baba Amr for the Savings Organization.",
+    i2_p: "Execution of a complete infrastructure project in Baba Amr.",
+    client_hg: "Client: Homs Governorate",
     i3_title: "Jib Al-Jandali Project (2008)",
-    i3_p: "Valued at SYP 60,000,000, including sewage works and road asphalt paving.",
+    i3_p: "Included sewage works and road asphalt paving.",
 
 
     contact_hero_eyebrow: "Contact Us",
@@ -210,7 +213,7 @@ var translations = {
   },
 
   ar: {
-    brand_name: "عاجوقا و انبوبا",
+    brand_name: "انبوبا و عاجوقا",
     nav_home: "الرئيسية",
     nav_about: "من نحن",
     nav_vision: "رؤيتنا",
@@ -373,12 +376,14 @@ var translations = {
     cat2_eyebrow: "المشاريع الإنشائية والصناعية",
     cat2_h2: "الأعمال السكنية والصناعية",
     c1_title: "مجمع أبراج الوعر السكني، حمص",
-    c1_p: "تنفيذ مجمع أبراج سكنية في حي الوعر بمدينة حمص، بقيمة تعاقدية قدرها 285,000,000 ليرة سورية، أُنجز في عام 2009.",
+    c1_p: "تنفيذ المشروع تضمن 80 شقة سكنية في 4 مباني، مكونة من 5 طوابق في حمص الوعر عام 2003.",
     c2_title: "مجمع الغاردينيا السياحي",
     c2_p: "انجزت المرحلة الاولى من مشروع برج الغاردينيا في عام 2008 وشملت هذه المرحلة اعمال الحفر وتدعيم التربة الجانبية باستخدام الانكورات والشداد بالاضافة الى البيتون المقذوف المسلح حتى عمق 18 مترا وبمساحة 8000 مترمربع وتركيب اوتاد جانبية بقطر 80 سم ونفذت هذه الاعمال وفق اعلى المعايير.",
 
     client_hsc: "العميل: جمعية الإدخار السكني",
     client_conser: "العميل: كونسر سوريا",
+    client_ich: "العميل: المدينة الصناعية في حمص",
+    client_hwse: "العميل: المؤسسة العامة للمياه والصرف الصحي في حمص",
     c3_title: "المدينة الصناعية في حمص",
     c3_p: "تنفيذ أعمال حفر متخصصة لعدة معامل صناعية ومنشآت فولاذية جاهزة.",
 
@@ -387,9 +392,10 @@ var translations = {
     i1_title: "شبكات الصرف في مدينة حمص",
     i1_p: "تنفيذ شبكات الصرف الصحي ومياه الأمطار في جميع أنحاء مدينة حمص، بأقطار أنابيب تتراوح بين 200 و 50 سم.",
     i2_title: "مشروع بنية تحتية بابا عمرو (2009)",
-    i2_p: "تنفيذ مشروع بنية تحتية متكامل في حي بابا عمرو لصالح مؤسسة التوفير.",
+    i2_p: "تنفيذ مشروع بنية تحتية متكامل في حي بابا عمرو.",
+    client_hg: "العميل: محافظة حمص",
     i3_title: "مشروع جب الجندلي (2008)",
-    i3_p: "بقيمة 60,000,000 ليرة سورية، شاملاً أعمال الصرف الصحي وتزفيت الطرق.",
+    i3_p: "شمل أعمال الصرف الصحي وتزفيت الطرق.",
 
 
     contact_hero_eyebrow: "تواصل معنا",
