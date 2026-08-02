@@ -18,7 +18,7 @@ var translations = {
     footer_chairman: "Chairman: +963 935 601 666",
     footer_pm: "Project Manager: +963 933 521 439",
     footer_ceo: "CEO: +963 932 999 943",
-    footer_email: "Email: ajouka.anboba@gmail.com",
+    footer_email: "Email: anboba.ajouka@gmail.com",
     footer_location: "Location: Abd Elhamid Droby St, Homs, Syria",
     footer_copyright: "© 2026 Company for Construction. All rights reserved.",
 
@@ -168,7 +168,7 @@ var translations = {
     c2_p: "The first phase of the Gardenia Tower project was completed in 2008. This phase included excavation work and lateral soil reinforcement using anchors and tie beams, in addition to reinforced shotcrete to a depth of 18 meters and an area of 8000 square meters, and the installation of lateral piles with a diameter of 80 cm. These works were carried out according to the highest standards.",
 
     client_hsc: "Client: Housing Savings Company",
-    client_conser: "Client: CONSER Syria",
+    client_conser: "Client: International CONSER Syria",
     client_ich: "Client: Industrial City of Homs",
     client_hwse: "Client: Homs Public Water and Sanitation Establishment",
     c3_title: "Homs Industrial City",
@@ -196,7 +196,7 @@ var translations = {
     contact_ceo_label: "CEO",
     contact_ceo_value: "+963 932 999 943",
     contact_email_label: "Email",
-    contact_email_value: "ajouka.anboba@gmail.com",
+    contact_email_value: "anboba.ajouka@gmail.com",
     contact_address_label: "Address",
     contact_address_value: "Abd Elhamid Droby St, Homs, Syria",
 
@@ -213,7 +213,7 @@ var translations = {
   },
 
   ar: {
-    brand_name: "انبوبا و عاجوقا",
+    brand_name: "انبوبا و عاجوقة",
     nav_home: "الرئيسية",
     nav_about: "من نحن",
     nav_vision: "رؤيتنا",
@@ -231,7 +231,7 @@ var translations = {
     footer_chairman: "رئيس مجلس الإدارة: 666 601 935 963+",
     footer_pm: "مدير المشروع: 439 521 933 963+",
     footer_ceo: "الرئيس التنفيذي: 943 999 932 963+",
-    footer_email: "البريد الإلكتروني: ajouka.anboba@gmail.com",
+    footer_email: "البريد الإلكتروني: anboba.ajouka@gmail.com",
     footer_location: "العنوان: شارع عبد الحميد الدروبي، حمص، سوريا",
     footer_copyright: "© 2026 الشركة للإنشاءات. جميع الحقوق محفوظة.",
 
@@ -381,7 +381,7 @@ var translations = {
     c2_p: "انجزت المرحلة الاولى من مشروع برج الغاردينيا في عام 2008 وشملت هذه المرحلة اعمال الحفر وتدعيم التربة الجانبية باستخدام الانكورات والشداد بالاضافة الى البيتون المقذوف المسلح حتى عمق 18 مترا وبمساحة 8000 مترمربع وتركيب اوتاد جانبية بقطر 80 سم ونفذت هذه الاعمال وفق اعلى المعايير.",
 
     client_hsc: "العميل: جمعية الإدخار السكني",
-    client_conser: "العميل: كونسر سوريا",
+    client_conser: "العميل: كونسير العالمية سوريا",
     client_ich: "العميل: المدينة الصناعية في حمص",
     client_hwse: "العميل: المؤسسة العامة للمياه والصرف الصحي في حمص",
     c3_title: "المدينة الصناعية في حمص",
@@ -409,7 +409,7 @@ var translations = {
     contact_ceo_label: "الرئيس التنفيذي",
     contact_ceo_value: "943 999 932 963+",
     contact_email_label: "البريد الإلكتروني",
-    contact_email_value: "ajouka.anboba@gmail.com",
+    contact_email_value: "anboba.ajouka@gmail.com",
     contact_address_label: "العنوان",
     contact_address_value: "شارع عبد الحميد الدروبي، حمص، سوريا",
 
