@@ -1,6 +1,6 @@
 var translations = {
   en: {
-    brand_name: "Anboba &amp; Ajouka",
+    brand_name: "ALWOSTA",
     nav_home: "Home",
     nav_about: "About",
     nav_vision: "Our Vision",
@@ -18,7 +18,7 @@ var translations = {
     footer_chairman: "Chairman: +963 935 601 666",
     footer_pm: "Project Manager: +963 933 521 439",
     footer_ceo: "CEO: +963 932 999 943",
-    footer_email: "Email: anboba.ajouka@gmail.com",
+    footer_email: "Email: alwosta.syria@gmail.com",
     footer_location: "Location: Abd Elhamid Droby St, Homs, Syria",
     footer_copyright: "© 2026 Company for Construction. All rights reserved.",
 
@@ -196,7 +196,7 @@ var translations = {
     contact_ceo_label: "CEO",
     contact_ceo_value: "+963 932 999 943",
     contact_email_label: "Email",
-    contact_email_value: "anboba.ajouka@gmail.com",
+    contact_email_value: "alwosta.syria@gmail.com",
     contact_address_label: "Address",
     contact_address_value: "Abd Elhamid Droby St, Homs, Syria",
 
@@ -213,7 +213,7 @@ var translations = {
   },
 
   ar: {
-    brand_name: "انبوبا و عاجوقة",
+    brand_name: "الوسطى",
     nav_home: "الرئيسية",
     nav_about: "من نحن",
     nav_vision: "رؤيتنا",
@@ -231,7 +231,7 @@ var translations = {
     footer_chairman: "رئيس مجلس الإدارة: 666 601 935 963+",
     footer_pm: "مدير المشروع: 439 521 933 963+",
     footer_ceo: "الرئيس التنفيذي: 943 999 932 963+",
-    footer_email: "البريد الإلكتروني: anboba.ajouka@gmail.com",
+    footer_email: "البريد الإلكتروني: alwosta.syria@gmail.com",
     footer_location: "العنوان: شارع عبد الحميد الدروبي، حمص، سوريا",
     footer_copyright: "© 2026 الشركة للإنشاءات. جميع الحقوق محفوظة.",
 
@@ -409,7 +409,7 @@ var translations = {
     contact_ceo_label: "الرئيس التنفيذي",
     contact_ceo_value: "943 999 932 963+",
     contact_email_label: "البريد الإلكتروني",
-    contact_email_value: "anboba.ajouka@gmail.com",
+    contact_email_value: "alwosta.syria@gmail.com",
     contact_address_label: "العنوان",
     contact_address_value: "شارع عبد الحميد الدروبي، حمص، سوريا",
 
